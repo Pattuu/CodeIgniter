@@ -2,7 +2,7 @@
 Tämä sivusto syntyi, kun opettelin CodeIgniter-ohjelmistokehystä opintojani varten.
 
 ## Käytetyt ohjelmointikielet
-HTML, CSS, JAVASCRIPT, PHP
+HTML, CSS, PHP
 
 ### Ohjelmistokehys: CodeIgniter 3 (PHP)
 ### Tietokanta: SQL
