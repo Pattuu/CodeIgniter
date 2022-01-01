@@ -6,10 +6,10 @@ HTML, CSS, PHP
 
 ### Ohjelmistokehys: CodeIgniter 3 (PHP)
 ### Tietokanta: SQL
-Koodit löytyvät tiedostoista, jotka ovat hakemistoissa:
-CodeIgniter/codeigniter/application/controllers
-CodeIgniter/codeigniter/application/models
-CodeIgniter/codeigniter/application/views
+### Koodit löytyvät tiedostoista, jotka ovat hakemistoissa:
+### CodeIgniter/codeigniter/application/controllers
+### CodeIgniter/codeigniter/application/models
+### CodeIgniter/codeigniter/application/views
 ## Sivusto
 * Home (Kotisivu)
 * About (Tietoa)
